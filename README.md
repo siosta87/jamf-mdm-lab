@@ -56,7 +56,6 @@ Steps completed:
                      
                       - **Result:** Open Enrollment active with a custom access code and blueprint assignment
                      
-                      - ![Open Enrollment Settings](open-enrollment.png)
                      
                       - ---
 
