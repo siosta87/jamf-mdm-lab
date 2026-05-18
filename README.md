@@ -23,7 +23,7 @@ Steps completed:
        
         - **Result:** APNs connection established and verified (active certificate issued by Apple Application Integration 2 Certification Authority, valid for 1 year)
        
-        - ![APNs Certificate Active](screenshots/apns.png)
+        - ![APNs Certificate Active](apns.png)
        
         - ---
 
@@ -39,7 +39,7 @@ Steps completed:
              
               - **Result:** Blueprint created and assigned to 1 device
              
-              - ![Blueprints Dashboard](screenshots/blueprints.png)
+              - ![Blueprints Dashboard](blueprints.png)
              
               - ---
 
@@ -56,7 +56,7 @@ Steps completed:
                      
                       - **Result:** Open Enrollment active with a custom access code and blueprint assignment
                      
-                      - ![Open Enrollment Settings](screenshots/open-enrollment.png)
+                      - ![Open Enrollment Settings](open-enrollment.png)
                      
                       - ---
 
@@ -71,7 +71,7 @@ Steps completed:
                              
                               - **Result:** iPad appeared in the Jamf Now device inventory under the "personal ipad lab" blueprint
                              
-                              - ![Device Enrolled in Jamf Now](screenshots/devices.png)
+                              - ![Device Enrolled in Jamf Now](devices.png)
                              
                               - ---
 
@@ -92,4 +92,3 @@ Steps completed:
                                       - - Security policy creation and enforcement via Blueprints
                                         - - Over-the-air device enrollment and remote management
                                           - - Jamf Now administration
-                                            - 
